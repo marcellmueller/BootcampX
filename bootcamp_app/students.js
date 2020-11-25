@@ -6,7 +6,7 @@ const pool = new Pool({
   host: 'localhost',
   database: 'bootcampx',
 });
-
+//pool
 pool
   .query(
     `
